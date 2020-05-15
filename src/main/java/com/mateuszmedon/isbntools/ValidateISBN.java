@@ -1,4 +1,4 @@
-package com.mateuszmedon.validateisbn;
+package com.mateuszmedon.isbntools;
 
 
 public class ValidateISBN {

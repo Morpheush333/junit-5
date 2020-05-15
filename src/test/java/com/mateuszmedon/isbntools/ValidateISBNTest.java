@@ -1,4 +1,4 @@
-package com.mateuszmedon.validateisbn;
+package com.mateuszmedon.isbntools;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
