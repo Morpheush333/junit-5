@@ -1,4 +1,4 @@
-package com.mateuszmedon.mockito;
+package com.mateuszmedon.firstQuickSet.mockito;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,4 +1,4 @@
-package com.mateuszmedon.mockito;
+package com.mateuszmedon.firstQuickSet.mockito;
 
 import java.sql.SQLException;
 import java.util.Arrays;

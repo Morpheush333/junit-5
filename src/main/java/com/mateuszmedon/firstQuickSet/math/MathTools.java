@@ -1,4 +1,4 @@
-package com.mateuszmedon.math;
+package com.mateuszmedon.firstQuickSet.math;
 
 public class MathTools {
     public static double convertToDecimal(int numerator, int denominator) {

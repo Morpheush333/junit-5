@@ -1,4 +1,4 @@
-package com.mateuszmedon.hamcrest;
+package com.mateuszmedon.firstQuickSet.hamcrest;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

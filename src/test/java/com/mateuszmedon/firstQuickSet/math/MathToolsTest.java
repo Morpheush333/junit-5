@@ -1,4 +1,4 @@
-package com.mateuszmedon.math;
+package com.mateuszmedon.firstQuickSet.math;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;

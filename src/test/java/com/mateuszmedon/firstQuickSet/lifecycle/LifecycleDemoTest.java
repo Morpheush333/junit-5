@@ -1,4 +1,4 @@
-package com.mateuszmedon.lifecycle;
+package com.mateuszmedon.firstQuickSet.lifecycle;
 
 import org.junit.jupiter.api.*;
 
