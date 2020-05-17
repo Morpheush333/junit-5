@@ -21,13 +21,13 @@ class NumberValidatorTest {
 
         Integer[] numbers = {23,61,79};
 
-        for(int i = 0; i< numbers.length; i++){
-            assertTrue(validator.isItPrime(numbers[i]));
+        for (Integer number : numbers) {
+            assertTrue(validator.isItPrime(number));
         }
     }
 
     @ParameterizedTest(name = "number = {0}")
-    @CsvSource(value = {"22", "63", "81", "25", "207"})
+    @CsvSource(value = {"1","22", "63", "81", "25", "207"})
     public void should_ReturnFalse_When_NumberIsNotPrime(Integer number) {
         assertFalse(validator.isItPrime(number));
     }
